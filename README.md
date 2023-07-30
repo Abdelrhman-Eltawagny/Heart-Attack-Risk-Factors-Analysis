@@ -1,7 +1,4 @@
-# (Dataset Exploration Title)
-## by (your name here)
-
-
+# (Heart Attack Dataset)
 ## Dataset
 
 The heart attack data consists of information regarding 1024 patient, including
